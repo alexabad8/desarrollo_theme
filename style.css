@@ -5,3 +5,12 @@ Description: Mi primer tema de wordpress responsive
 Version: 1.0
 Tags: Desarrollo Wordpress
 */
+.jumbotron{
+    color: blanchedalmond;
+    margin-top: 2.5rem;
+    background-image: url('img/fondo.jpg');
+}
+.card{
+    margin:3rem 4rem;
+    display: inline-block;
+}
