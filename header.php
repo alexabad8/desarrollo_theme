@@ -8,7 +8,7 @@
     <?php wp_head()?>
   </head>
 <body>
-
+<?php mostrar_menu()?>
 
 
 
